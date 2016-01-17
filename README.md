@@ -2,5 +2,8 @@
 
 はてなブックマークでのコメントを取得するために作ったChromeアプリ　サンプル
 
- ![my image](pic1.png)
- ![my image](pic2.png)
+1.
+  ![my image](pic1.png)
+
+2.
+  ![my image](pic2.png)
